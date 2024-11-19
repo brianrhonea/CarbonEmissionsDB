@@ -2,21 +2,21 @@ Here is an acadmemic project I worked on in my first semester of my Master's Pro
 
 📌 Project Objectives
 
-•	Analyze carbon emissions across the US automotive industry.
-•	Identify key drivers of emissions.
-•	Assess risks associated with current emission levels.
-•	Recommend mitigation strategies for high-emission sectors.
-•	Support development of carbon reduction policies with evidence-based insights.
-•	Establish monitoring frameworks to track progress in emission reduction initiatives.
-•	Facilitate knowledge sharing and capacity-building for stakeholders.
+- Analyze carbon emissions across the US automotive industry.
+- Identify key drivers of emissions.
+- Assess risks associated with current emission levels.
+- Recommend mitigation strategies for high-emission sectors.
+- Support development of carbon reduction policies with evidence-based insights.
+- Establish monitoring frameworks to track progress in emission reduction initiatives.
+- Facilitate knowledge sharing and capacity-building for stakeholders.
 
 🛠️ Scope
 
 The transportation industry is the largest source of greenhouse gas (GHG) emissions globally, with CO2 accounting for 97% of transportation-related emissions. This project aims to:
-	•	Collect and analyze carbon emissions data from the automotive industry.
-	•	Benchmark emissions against industry standards.
-	•	Identify emission hotspots and sources.
-	•	Develop tailored, actionable strategies for reducing emissions.
+- Collect and analyze carbon emissions data from the automotive industry.
+- Benchmark emissions against industry standards.
+- Identify emission hotspots and sources.
+- Develop tailored, actionable strategies for reducing emissions.
 
 📑 Deliverables
 
