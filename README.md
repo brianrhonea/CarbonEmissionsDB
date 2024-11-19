@@ -79,6 +79,5 @@ Phase 3: Deliverables and Presentation (April 2024)
 
 🤝 Collaboration and Acknowledgments
 
-Special thanks to all team members for their contributions to this project, including database design, SQL development, and presentation preparation.
+Special thanks to all team members for their contributions to this project, including database design, SQL development, and presentation preparation. If anyone would like to provide feedback on what I could do better or improve on I am always looking to learn.
 
-This README is designed to effectively communicate the project goals, methodology, and deliverables to a broader audience on GitHub. If you’d like, I can help refine specific sections or add diagrams and examples.
