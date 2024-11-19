@@ -2,13 +2,13 @@ Here is an acadmemic project I worked on in my first semester of my Master's Pro
 
 📌 Project Objectives
 
-	•	Analyze carbon emissions across the US automotive industry.
-	•	Identify key drivers of emissions.
-	•	Assess risks associated with current emission levels.
-	•	Recommend mitigation strategies for high-emission sectors.
-	•	Support development of carbon reduction policies with evidence-based insights.
-	•	Establish monitoring frameworks to track progress in emission reduction initiatives.
-	•	Facilitate knowledge sharing and capacity-building for stakeholders.
+•	Analyze carbon emissions across the US automotive industry.
+•	Identify key drivers of emissions.
+•	Assess risks associated with current emission levels.
+•	Recommend mitigation strategies for high-emission sectors.
+•	Support development of carbon reduction policies with evidence-based insights.
+•	Establish monitoring frameworks to track progress in emission reduction initiatives.
+•	Facilitate knowledge sharing and capacity-building for stakeholders.
 
 🛠️ Scope
 
@@ -20,27 +20,27 @@ The transportation industry is the largest source of greenhouse gas (GHG) emissi
 
 📑 Deliverables
 
-	1.	Comprehensive Analysis Report: Insights into carbon emissions across the automotive sector.
-	2.	Mitigation Strategies: Recommendations to reduce emissions in high-polluting areas.
-	3.	Policy Support: Evidence-based guidance for industry-specific carbon reduction initiatives.
-	4.	Monitoring Framework: Tools to track emission reduction progress.
-	5.	Knowledge Sharing Materials: Resources for professionals in the automotive industry.
+1.	Comprehensive Analysis Report: Insights into carbon emissions across the automotive sector.
+2.	Mitigation Strategies: Recommendations to reduce emissions in high-polluting areas.
+3.	Policy Support: Evidence-based guidance for industry-specific carbon reduction initiatives.
+4.	Monitoring Framework: Tools to track emission reduction progress.
+5.	Knowledge Sharing Materials: Resources for professionals in the automotive industry.
 
 💼 Stakeholders
 
-	•	Industry representatives
-	•	Environmental agencies
-	•	Policymakers
-	•	Stakeholder organizations
+•	Industry representatives
+•	Environmental agencies
+•	Policymakers
+•	Stakeholder organizations
 
 ⚠️ Risks and Mitigation Strategies
 
-	•	Risk: Data availability and reliability issues
-	•	Mitigation: Ensure data confidentiality and collaborate with experts.
-	•	Risk: Technical challenges in analysis and modeling
-	•	Mitigation: Use advanced techniques and secure necessary resources.
-	•	Risk: Resource constraints
-	•	Mitigation: Allocate budget and time effectively.
+•	Risk: Data availability and reliability issues
+•	Mitigation: Ensure data confidentiality and collaborate with experts.
+•	Risk: Technical challenges in analysis and modeling
+•	Mitigation: Use advanced techniques and secure necessary resources.
+•	Risk: Resource constraints
+•	Mitigation: Allocate budget and time effectively.
 
 🔄 Project Timeline and Key Milestones
 
@@ -58,20 +58,20 @@ Phase 3: Deliverables and Presentation (April 2024)
 
 📝 SQL Use Cases Overview
 
-	1.	Top 5 Vehicles by GHG Score: Identifies alternative fuel technologies.
-	2.	Average CO2 Emissions by Fuel Type: Highlights the most polluting sources.
-	3.	Top 10 Vehicles by CO2 Emissions: Pinpoints opportunities for emission reduction.
-	4.	Total Annual Fuel Cost: Links fuel costs to emissions for cost-effective strategies.
-	5.	GHG Score Trends: Tracks industry-wide improvements in emissions.
+1.	Top 5 Vehicles by GHG Score: Identifies alternative fuel technologies.
+2.	Average CO2 Emissions by Fuel Type: Highlights the most polluting sources.
+3.	Top 10 Vehicles by CO2 Emissions: Pinpoints opportunities for emission reduction.
+4.	Total Annual Fuel Cost: Links fuel costs to emissions for cost-effective strategies.
+5.	GHG Score Trends: Tracks industry-wide improvements in emissions.
 
 🔧 Procedures and Functions
 
-	•	Procedure Examples:
-	•	Calculate total annual fuel cost per vehicle.
-	•	Insert new vehicle entries efficiently.
-	•	Function Examples:
-	•	Identify the vehicle with the lowest CO2 emissions.
-	•	Compute average CO2 emissions by fuel type.
+•	Procedure Examples:
+•	Calculate total annual fuel cost per vehicle.
+•	Insert new vehicle entries efficiently.
+•	Function Examples:
+•	Identify the vehicle with the lowest CO2 emissions.
+•	Compute average CO2 emissions by fuel type.
 
 📊 ER Diagram
 
